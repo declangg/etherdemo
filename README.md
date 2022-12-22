@@ -1,6 +1,8 @@
 # Ether.js Demo
 
 ## Get Started
-> npm install
-> update index.js file (using your apiKey)
-> node index.js
+```
+1. npm install
+2. update index.js file (using your apiKey)
+2. node index.js
+```
